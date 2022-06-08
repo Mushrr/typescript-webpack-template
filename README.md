@@ -3,6 +3,10 @@ A Typescript Environment Using webpack
 
 
 ```
+git clone https://github.com/HuangXingjie2002/typescript-webpack-template
+
+cd typescript-webpack-template
+
 yarn install
 
 yarn build
